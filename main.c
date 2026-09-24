@@ -6,7 +6,7 @@
  */
 
 #include <stdio.h>
-#include "binary_tree.h"
+#include "traversal.h"
 
 int main(void) {
     const char *input = "A(B(D(G,H),E),C(I,F(,J)))";
